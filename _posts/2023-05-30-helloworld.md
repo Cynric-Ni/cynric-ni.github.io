@@ -1,5 +1,5 @@
 ---
-title: hello world
+title: helloworld
 date: 2023-05-30 17:16:00
 categories: [ctf,python]
 tags: [ctf]
